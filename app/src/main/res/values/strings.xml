@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ACDAT_Tema4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ejercicio1">Ejercicio1Activity</string>
+    <string name="title_activity_ejercicio2">Ejercicio2Activity</string>
+    <string name="title_activity_ejercicio3">Ejercicio3Activity</string>
+    <string name="title_activity_ejercicio4">Ejercicio4Activity</string>
+    <string name="title_activity_ciudad">CiudadActivity</string>
+    <string name="title_activity_pronostico">PronosticoActivity</string>
+    <string name="title_activity_gasolineras">GasolinerasActivity</string>
+    <string name="title_activity_precios">PreciosActivity</string>
+</resources>
